@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  width: 400px;
+  height: auto;
+  border: 20px solid orange;
+  box-shadow: 2px 2.5px 0px 1px rgba(0,0,0,0.2);
+  
+}
+
